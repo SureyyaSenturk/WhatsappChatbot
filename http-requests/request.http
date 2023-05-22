@@ -1,0 +1,9 @@
+POST http://localhost:8080/send
+Content-Type: application/json
+
+
+
+{
+  "to": "+905435980275",
+  "message": "Başardık Abi"
+}
