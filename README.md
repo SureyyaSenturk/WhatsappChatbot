@@ -1,2 +1,3 @@
-# WhatsappChatbot  ![image](https://github.com/SureyyaSenturk/WhatsappChatbot/assets/82750611/a99600e1-7534-4511-9976-cf607bfddfb1)
+# ![Chatbot-platform-for-Whatsapp (2)](https://github.com/SureyyaSenturk/WhatsappChatbot/assets/82750611/3faac97a-bf7c-49f2-820f-4ab3cf686bdd)
+
 
