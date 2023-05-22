@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://www.google.com.tr/url?sa=i&url=https%3A%2F%2Fdocpromo.in%2Fwhatsapp-bot-for-healthcare%2F&psig=AOvVaw1HgSr3UYPP0o7WBSV4xGEu&ust=1684867649827000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMip75_Lif8CFQAAAAAdAAAAABAS" alt="Logo" width="80" height="80">
+    <img src="images.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Whatsapp Chatbot</h3>
